@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
 
   s.name         = "UIImageSize"
   s.version      = "1.0.0"
-  s.summary      = "A short description of UIImageSize."
+  s.summary      = " 计算网络图片尺寸"
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
@@ -25,6 +25,7 @@ Pod::Spec.new do |s|
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   s.description  = <<-DESC
+  计算网络图片尺寸
                    DESC
 
   s.homepage     = "https://github.com/LiHongGui/UIImageSize.git"
